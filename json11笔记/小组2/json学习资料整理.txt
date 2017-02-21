@@ -1,0 +1,44 @@
+
+相关项目网址：
+https://github.com/miloyip/json-tutorial    C版   
+https://github.com/dropbox/json11         C++版   
+
+json在线编译器：
+http://www.json.cn
+json中国                这个界面最好。可以保存JSON文本
+
+http://jsonlint.com/
+json在线编译器          这个界面简洁
+
+http://www.jsonohyeah.com/
+json在线编译器          这个界面有5分钟左右的学习成本       
+
+
+
+第一阶段：了解JSON学习资料汇总
+
+学习资料：
+https://zhuanlan.zhihu.com/p/25189183?utm_source=wechat_session&utm_medium=social
+json11学习计划
+
+https://en.wikipedia.org/wiki/JSON
+维基json
+
+http://www.json.org/index.html
+json官网
+
+http://www.cnblogs.com/mcgrady/archive/2013/06/08/3127781.html
+JSON详解   提高用；快速过一遍就行 对JSON对象以及JSON字符串概念区分，当然本次研究的JSON对象与这里JSON对象存在一定的差别。区分两者可以更好地理解项目。可以结合json中国的在线解析器进行区别。
+
+http://www.w3school.com.cn/json/index.asp
+JSON教程   提高用：  可以看看JSON对象在JavaScript里面是如何使用的
+
+
+第二阶段： 解析数字
+
+https://zhuanlan.zhihu.com/json-tutorial
+Milo Yip  《从零开始的 JSON 库教程》
+
+
+
+
